@@ -1,0 +1,165 @@
+! Title: Penjaga keluarga kami
+! Expires: 2 hours
+! Version: ver-000_rel-001
+! Last modified: %timestamp%
+||wolipop.detik.com^$important
+ 
+||www.detik.com^$third-party,important
+||tiket.antavaya.com/widgets.php^$important
+www.kapanlagi.com##body
+www.viki.com##body
+www.vemale.com/tags/curhat-cinta-vemale-com##body
+ 
+www.detik.com##.emagz
+www.detik.com##.new-mytrans
+ 
+! 26/4/2015 13.13.05 http://www.detik.com/
+##a[href*="Bercinta"]
+ 
+! 26/4/2015 13.16.36 http://www.detik.com/
+##a[href*="Bikini"]
+##a[href*="bikini"]
+##a[href*="Kencan"]
+##a[href*="kencan"]
+##a[href*="bercinta"]
+##a[href*="Seks"]
+##a[href*="seks"]
+##a[href*="sex"]
+##a[href*="orgasme"]
+##a[href*="Orgasme"]
+##a[href*="1VbeUG7NzBE"]
+##*>[alt*="kontol"]
+##*>[alt*="memek"]
+##*>[href*="memek"]
+##*>[alt*="bugil"]
+##*>[href*="bugil"]
+##*>[alt*="tante+sange"]
+##*>[href*="tante+sange"]
+##*>[href*="janda+sange"]
+##*>[alt*="telanjang"]
+##*>[href*="telanjang"]
+##*>[alt*="bokep"]
+##*>[href*="bokep"]
+##*>[href*="montok"]
+##a[alt*="kontol"]
+##a[href*="Kontol"]
+##a[alt*="ngentot"]
+##a[href*="ngentot"]
+##*>[alt*="kondom"]
+##*>[href*="kondom"]
+##*>[alt*="narkoba"]
+##*>[href*="narkoba"]
+##*>[alt*="narkotika"]
+##*>[href*="narkotika"]
+##*>[alt*="koplo"]
+##*>[href*="koplo"]
+##*>[alt*="dangdut"]
+##*>[href*="dangdut"]
+##*>[alt*="pacaran"]
+##*>[href*="pacaran"]
+##*>[href*="zodiak"]
+ 
+##img[href*="Anime"]
+ 
+! artis
+##*>[alt*="nikita+mirzani"]
+##*>[href*="nikita+mirzani"]
+##*>[href*="julia_perez"]
+##*>[href*="julia-perez"]
+##*>[href*="julia+perez"]
+##*>[alt*="dewi-persik"]
+##*>[href*="dewi-persik"]
+##*>[alt*="dewi+persik"]
+##*>[href*="dewi+persik"]
+##*>[alt*="Dewi+Persik"]
+##*>[href*="Dewi+Persik"]
+ 
+wolipop.detik.com###detikcontent
+hot.detik.com##.contenthot
+www.youtube.com##.lohp-large-shelf-container *> A[href^="/watch"]
+www.youtube.com##a[href*="qePhBjCa-oo"]
+ 
+ 
+health.detik.com###detikcontent *> .sex
+ 
+! 26/4/2015 15.10.32 https://www.google.co.id/search?q=boboiboy&biw=1280&bih=655&source=lnms&tbm=isch&sa=X&ei=qpw8VfXXOZC4uASJj4GwBw&ved=0CAYQ_AUoAQ#tbm=isch&q=anime
+www.google.co.id##*>[alt*="anime"]
+ 
+! 26/4/2015 16.02.07 http://health.detik.com/?ctl
+health.detik.com##*>a[href*="andri-wanananda"]
+health.detik.com##a[href*="miss-v"]
+health.detik.com##a[href*="payudara"]
+ 
+! 26/4/2015 16.07.57 http://oto.detik.com/
+oto.detik.com###satu
+ 
+! 26/4/2015 16.09.54 http://oto.detik.com/
+oto.detik.com###detikcontent > .kanan > .box_4
+ 
+! 26/4/2015 16.12.26 http://oto.detik.com/otoshow/readfoto/2015/04/23/214504/2896738/647/1/mobil-monster-nissan-juke-r
+||images.detik.com/customthumb/2015/04/23/647/juke1.jpg
+ 
+! 26/4/2015 16.12.49 http://oto.detik.com/otoshow/readfoto/2015/04/23/214504/2896738/647/1/mobil-monster-nissan-juke-r
+||images.detik.com/content/2015/04/23/647/juke1a.jpg
+ 
+! 26/4/2015 16.25.30 http://oto.detik.com/otoshow/gallery
+oto.detik.com##.pic[href="http://oto.detik.com/otoshow/readfoto/2015/04/23/214504/2896738/647/1/mobil-monster-nissan-juke-r"]
+ 
+! 26/4/2015 16.27.15 http://oto.detik.com/otoshow/read/2015/03/30/105026/2873245/1506/melirik-kecanggihan-2-mobil-ramah-lingkungan-bmw-i3-dan-i8
+||images.detik.com/content/2015/03/30/1506/105447_i3.jpg
+ 
+! 26/4/2015 16.27.45 http://oto.detik.com/otoshow
+||images.detik.com/content/2015/03/30/1506/i3.jpg
+ 
+! 26/4/2015 16.37.58 http://www.merdeka.com/
+www.merdeka.com##a[href*="/artis/"]
+www.merdeka.com##a[href*="sensualitas"]
+ 
+! 26/4/2015 16.51.07 http://www.vemale.com/tags/curhat-cinta-vemale-com/
+www.vemale.com##a[href*="/zodiak/"]
+www.vemale.com##a[href*="/fashion/"]
+www.vemale.com##a[href*="/polling/"]
+ 
+www.youtube.com##a[href*="Healer"]
+www.youtube.com##a[href*="/user/Blucollection"]
+www.youtube.com##a[href*="channel/UC7nGdI1YVbdj0lBqEeg8KxQ"]
+ 
+! judi
+go88bet.com,99dewa.net,grand77.asia,dinastybet.net,lucky303.co,sbo303.org,taruhan88.com,vipbet88.com,metrosbobet.com,omi88.com,bandar889.com##body
+ 
+!porno
+menjelma.com,termontok.com##body
+log.viva.co.id/news/read/526723
+ 
+!web tak butuh
+||cdn.klimg.com
+ 
+! movies
+yahoo.com##*>[href*="movies"]
+ 
+! 26/4/2015 18.54.40 http://foto.okezone.com/
+foto.okezone.com##a[href*="celebrity"
+twitter.com/semprotcom
+!semprot.com
+/204.12.226.68/
+imdb.com,filmbagus21.com,21cineplex.com,wowkeren.com##body
+ 
+ 
+ 
+! 26/4/2015 22.27.00 http://showbiz.liputan6.com/
+viva.co.id,liputan6.com##*>[href*="showbiz"]
+liputan6.com##*>[href*="buser"]
+liputan6.com##*>[href*="musik"]
+liputan6.com##*>[href*="showbiz"]
+ 
+##a[href*="prostitusi"]
+ 
+! 26/4/2015 23.04.26 http://otomotif.news.viva.co.id/
+viva.co.id##*>.babes
+viva.co.id##*>[href*="babes"]
+ 
+! 26/4/2015 23.45.29 http://www.games.co.id/permainan/berdandan
+www.games.co.id##*>[href*="dandan"]
+ 
+! 27/4/2015 01.01.19 https://www.yahoo.com/style/tagged/fashion
+www.yahoo.com##*>[href*="fashion"]
