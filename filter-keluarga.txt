@@ -31,6 +31,8 @@ www.detik.com##.new-mytrans
 ##*>[alt*="kontol"]
 ##*>[alt*="memek"]
 ##*>[href*="memek"]
+##*>[alt*="tempek"]
+##*>[href*="tempek"]
 ##*>[alt*="bugil"]
 ##*>[href*="bugil"]
 ##*>[alt*="tante+sange"]
