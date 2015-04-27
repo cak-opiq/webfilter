@@ -9,7 +9,9 @@ Berikut contoh-contohnya:
   - membuat link tidak senonoh tidak bisa di klik.
   - Menghilangkan bagian web tidak baik buat anak, contohnya: 'bagian babes, di halaman web.
 
-Area Kerja: kami menyediakan setting filter yang dapat diaplikasikan ke browser extension dibawah.
+Area Kerja: 
+1. kami menyediakan "file setting" yang dapat diaplikasikan ke software browser extension dibawah.
+2. file setting yg dimaksud adalah: https://raw.githubusercontent.com/cak-opiq/webfilter/master/filter-keluarga.txt
 
 Pilihan software:
   1. u-block https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en
