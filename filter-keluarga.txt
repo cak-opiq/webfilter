@@ -45,6 +45,8 @@ www.detik.com##.new-mytrans
 ##a[href*="Kontol"]
 ##a[alt*="ngentot"]
 ##a[href*="ngentot"]
+##a[alt*="ngaceng"]
+##a[href*="ngaceng"]
 ##*>[alt*="kondom"]
 ##*>[href*="kondom"]
 ##*>[alt*="narkoba"]
