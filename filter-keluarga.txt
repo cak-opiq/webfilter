@@ -2,18 +2,21 @@
 ! Expires: 1 hours
 ! Version: ver-000_rel-001
 ! Last modified: %timestamp%
-||wolipop.detik.com^$important
 
- 
+! tak butuh di ambil dari jaringan
+||wolipop.detik.com^$important
+||klikcapsa.com^$important
 ||www.detik.com^$third-party,important
 ||tiket.antavaya.com/widgets.php^$important
+||videobam.com^$important
+
 www.kapanlagi.com##body
 www.viki.com##body
 www.vemale.com/tags/curhat-cinta-vemale-com##body
 
 ! Bagian web yg tidak patut buat anak 
-www.detik.com##.emagz
-www.detik.com##.new-mytrans
+www.detik.com##*>.emagz
+www.detik.com##*>.new-mytrans
  
 ! 26/4/2015 13.13.05 http://www.detik.com/
 ##a[href*="Bercinta"]
@@ -131,7 +134,8 @@ www.youtube.com##a[href*="channel/UC7nGdI1YVbdj0lBqEeg8KxQ"]
  
 ! judi
 go88bet.com,99dewa.net,grand77.asia,dinastybet.net,lucky303.co,sbo303.org,taruhan88.com,vipbet88.com,metrosbobet.com,omi88.com,bandar889.com##body
- 
+!!bol228.com
+
 !porno
 menjelma.com,termontok.com##body
 log.viva.co.id/news/read/526723
