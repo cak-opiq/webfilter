@@ -182,9 +182,7 @@ go88bet.com,99dewa.net,grand77.asia,dinastybet.net,lucky303.co,sbo303.org,taruha
 !porno
 menjelma.com,termontok.com##body
 log.viva.co.id/news/read/526723
- 
-!web tak dibutuhkan anak
-||cdn.klimg.com
+
  
 ! movies
 yahoo.com##*>[href*="movies"]
