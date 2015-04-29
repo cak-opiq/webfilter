@@ -203,3 +203,106 @@ www.games.co.id##*>[href*="dandan"]
  
 ! 27/4/2015 01.01.19 https://www.yahoo.com/style/tagged/fashion
 www.yahoo.com##*>[href*="fashion"]
+##* > a[href*="otosia"]
+##* > a[href*="otobabe"]
+##* > a[href*="hin"]
+##* > a[alt*="toge"]
+##* > *[alt*="montok"]
+##* > *[alt*="hot"][alt*="igo"]
+##* > *[alt*="hot"][alt*="toge"]
+##img[src*="paddock"]
+##img[src*="hin"][cantik]
+##img[src*="cantik"]
+##img[src*="putri"]
+##img[src*="gadis"]
+||cdn.klimg.com/*/bims_angels
+
+@@* > a[alt*="toge"][alt*="sayur"]
+
+||*.com^*seksi
+||*.com^*janda
+||*.com^*kontol
+||http://indonesia-girl.blogspot.com^
+
+! 28/4/2015 23.34.16 http://www.otosia.com/galeri/alasan_terbaik_untuk_mengunjungi_pameran_otomotif_thailand-1.html
+||cdn.klimg.com/otosia.com^*alasan_terbaik*pameran_otomotif_thailand
+
+! 28/4/2015 23.44.56 https://www.google.co.id/search?q=test&es_sm=122&source=lnms&tbm=isch&sa=X&ei=07c_Ve_lJY7juQTdpIHoAg&ved=0CAcQ_AUoAQ&biw=1232&bih=337#tbm=isch&q=swimsuit
+##a[href*="fashion"][href^="imgres"]
+##a[href*="swimsuit"][href^="imgres"]
+www.forumbebas.com##a[href^="www/go/to.php"]
+||sbbanner.com^
+www.forumbebas.com###iklan3
+news.detik.com###billboard_banner
+
+! 29/4/2015 09.05.44 http://www.otosia.com/otoseleb/rhara-jatuhkan-pada-sedan-hatchback.html
+||cdn.klimg.com^/rhara-jatuhkan
+
+! 4/29/2015, 10:15:54 AM http://lifestyle.okezone.com/read/2015/04/28/194/1141466/perawatan-khusus-hilangkan-aroma-tak-sedap-area-v
+||staticdev.okezone.com^
+
+! 4/29/2015, 10:28:13 AM http://news.okezone.com/read/2015/04/29/337/1141725/rumah-persemayaman-duo-bali-nine-dijaga-ketat
+||bdev.okezone.com^delivery
+
+! 4/29/2015, 12:23:46 PM http://www.sepak.com/
+www.sepak.com##.momizat-ads
+www.sepak.com##a[href*="irina-shayk"]
+www.sepak.com##a[href*="mantan-kekasih-cristiano-ronaldo"]
+www.sepak.com##*[alt*="Mantan WAGs"]
+www.sepak.com##a[href*="daniela-ospina-wags"]
+www.sepak.com##a[href*="ogah-ldr-bek"]
+www.sepak.com##a[href*="chey-anderson-benzema"]
+www.sepak.com##a[href*="artis-hot"]
+www.sepak.com##a[href="http://www.sepak.com/wanita-cantik-ini-selingkuhan-drobga/"]
+www.sepak.com##a[href*="porno"]
+www.sepak.com##a[href="http://www.sepak.com/kekasih-cantik-de-gea-bantah-olok-olok-kota-manchester/"]
+www.sepak.com##a[href="http://www.sepak.com/terus-disorot-media-jadi-alasan-bruna-putus-dari-neymar/"]
+www.sepak.com##a[href="http://www.sepak.com/berkat-pria-kekar-mantan-pacar-cr7-ubah-perilaku-buruk/"]
+www.sepak.com##a[href="http://www.sepak.com/wilfried-zaha-tiduri-anak-pelatihnya-david-moyes/"]
+www.sepak.com##a[href="http://www.sepak.com/asmara-fellaini-dengan-presenter-porno-dikabarkan-kandas/"]
+www.sepak.com##a[href="http://www.sepak.com/mantan-istri-diego-simeone-berniat-operasi-payudara/"]
+www.sepak.com##a[href="http://www.sepak.com/istri-steven-gerrard-ingin-segera-menetap-di-los-angeles/"]
+www.sepak.com##a[href="http://www.sepak.com/foto-panas-dixie-pratt-kekasih-romario/"]
+www.sepak.com##a[href="http://www.sepak.com/irina-sindir-ronaldo-yang-doyan-selingkuh/"]
+www.sepak.com##a[href="http://www.sepak.com/oplas-gagal-selingkuhan-ronaldo-habiskan-sisa-hidup-di-kursi-roda/"]
+www.sepak.com##a[href="http://www.sepak.com/koleksi-foto-panas-wags-larrisa-riquelme/"]
+www.sepak.com##a[href="http://www.sepak.com/foto-panas-montana-yorke-pacar-andre-schurrle/"]
+www.sepak.com##a[href="http://www.sepak.com/5-wags-yang-hobi-operasi-plastik/"]
+www.sepak.com##a[href="http://www.sepak.com/eks-kekasih-ronaldo-bakal-jadi-supergirl/"]
+www.sepak.com##a[href="http://www.sepak.com/gara-gara-ronaldo-petenis-cantik-wozniacki-kehilangan-kontrak-pakaian-dalam/"]
+www.sepak.com##a[href="http://www.sepak.com/wags-sepakbola-dengan-bokong-terindah-di-dunia/"]
+www.sepak.com##a[href="http://www.sepak.com/cuma-karena-game-pique-dan-shakira-berselisih/"]
+www.sepak.com##a[href="http://www.sepak.com/juara-kontes-kecantikan-indianara-carvalho-naksir-berat-pada-neymar/"]
+www.sepak.com##a[href="http://www.sepak.com/foto-syur-lorena-bernal-pascual-wags-mikel-arteta/"]
+www.sepak.com##a[href="http://www.sepak.com/polly-parsons-model-panas-wags-thomas-vermaelen/"]
+www.sepak.com##a[href="http://www.sepak.com/luke-shaw-ajak-model-kembar-kumpul-kebo/"]
+www.sepak.com##a[href="http://www.sepak.com/natal-falcao-dikelilingi-9-wanita-cantik/"]
+www.sepak.com##a[href="http://www.sepak.com/kicaukan-twit-cabul-akun-twitter-artis-porno-alina-hennesy-di-suspend/"]
+www.sepak.com##a[href="http://www.sepak.com/polly-parsons-wags-baru-milik-barcelona/"]
+www.sepak.com##a[href="http://www.sepak.com/ini-dia-kekasih-baru-jordi-alba/"]
+www.sepak.com##a[href="http://www.sepak.com/olivier-giroud-terancam-bakal-tinggalkan-arsenal/"]
+www.sepak.com##a[href="http://www.sepak.com/rayakan-gol-napoli-baju-presenter-ini-melorot/"]
+www.sepak.com##a[href="http://www.sepak.com/video-porno-mantan-balotelli-paling-diminati/"]
+www.sepak.com##a[href="http://www.sepak.com/aura-kasih-digosipkan-jalin-hubungan-dengan-syamsir-alam/"]
+www.sepak.com##a[href="http://www.sepak.com/vanity-fair-2014-irinia-shayk-tampil-dengan-gaun-transparan/"]
+www.sepak.com##a[href="http://www.sepak.com/duh-kekasih-andy-caroll-punya-bulu-ketiak-lebat/"]
+www.sepak.com##a[href="http://www.sepak.com/4-bintang-porno-ini-sukses-taklukkan-hati-bintang-sepak-bola/"]
+www.sepak.com##a[href="http://www.sepak.com/mario-balotelli-resmi-jadi-ayah/"]
+www.sepak.com##a[href="http://www.sepak.com/koleksi-foto-panas-sylvie-francoise-meis-eks-wags-van-der-vaart/"]
+www.sepak.com##a[href="http://www.sepak.com/kekasih-borini-jadi-model-pakaian-renang/"]
+www.sepak.com##a[href="http://www.sepak.com/mario-gotze-habiskan-liburan-bersama-sang-kekasih/"]
+www.sepak.com##a[href="http://www.sepak.com/rebut-istri-maxi-lopez-icardi-pengkhianat/"]
+www.sepak.com##a[href="http://www.sepak.com/liburan-terakhir-messi-pamer-kemesraan/"]
+www.sepak.com##a[href="http://www.sepak.com/adik-eks-punggawa-madrid-berpose-syur/"]
+www.sepak.com##a[href="http://www.sepak.com/model-panas-ini-mengaku-menjadi-korban-cabul-lavezzi/"]
+www.sepak.com##a[href="http://www.sepak.com/taylor-swift-jalin-asmara-dengan-pemain-orlando-city/"]
+www.sepak.com##a[href*="wags"]
+www.sepak.com##a[href="http://www.sepak.com/gelandang-muda-chelsea-pamerkan-foto-dikecup-dua-wanita-cantik/"]
+www.sepak.com##a[href="http://www.sepak.com/tak-mau-bayar-psk-legenda-bayern-terseret-ke-meja-hijau/"]
+www.sepak.com##a[href="http://www.sepak.com/rayakan-ulang-tahun-adik-penyerang-barcelona-ini-mengaku-sedih/"]
+www.sepak.com##a[href="http://www.sepak.com/tidak-dipanggil-timnas-pacar-samir-nasri-ngamuk-besar/"]
+www.sepak.com##a[href="http://www.sepak.com/ronaldo-asyik-bermesraan-dengan-pacar-lionel-messi/"]
+www.sepak.com##a[href="http://www.sepak.com/pemain-junior-mu-ajak-mahasiswi-berhubungan-threesome/"]
+www.sepak.com##a[href="http://www.sepak.com/ternyata-kepindahan-fabregas-ke-chelsea-akibat-desakan-sang-kekasih/"]
+www.sepak.com##a[href="http://www.sepak.com/kagumi-barcelona-model-cantik-ini-buat-tato-di-pantatnya/"]
+www.sepak.com##a[href="http://www.sepak.com/foto-foto-panas-presenter-sepakbola-italia/"]
