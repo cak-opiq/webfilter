@@ -9,6 +9,23 @@
 ||www.detik.com^$third-party,important
 ||tiket.antavaya.com/widgets.php^$important
 ||videobam.com^$important
+||*.com^*seksi
+||*.com^*janda
+||*.com^*penis
+||http://indonesia-girl.blogspot.com^
+||cdn.klimg.com^/rhara-jatuhkan
+||sbbanner.com^
+
+! 4/29/2015, 10:15:54 AM http://lifestyle.okezone.com/read/2015/04/28/194/1141466/perawatan-khusus-hilangkan-aroma-tak-sedap-area-v
+||staticdev.okezone.com^
+
+! 4/29/2015, 10:28:13 AM http://news.okezone.com/read/2015/04/29/337/1141725/rumah-persemayaman-duo-bali-nine-dijaga-ketat
+||bdev.okezone.com^delivery
+
+! 28/4/2015 23.34.16 http://www.otosia.com/galeri/alasan_terbaik_untuk_mengunjungi_pameran_otomotif_thailand-1.html
+||cdn.klimg.com/otosia.com^*alasan_terbaik*pameran_otomotif_thailand
+||images.detik.com/customthumb/2015/04/23/647/juke1.jpg
+||images.detik.com/content/2015/04/23/647/juke1a.jpg
 
 www.kapanlagi.com##body
 www.viki.com##body
@@ -17,7 +34,81 @@ www.vemale.com/tags/curhat-cinta-vemale-com##body
 ! Bagian web yg tidak patut buat anak 
 www.detik.com##*>.emagz
 www.detik.com##*>.new-mytrans
+hot.detik.com##.contenthot
+wolipop.detik.com###detikcontent
+
+!web menghabiskan waktu menghalangi beramal baik
+! 26/4/2015 16.37.58 http://www.merdeka.com/
+www.merdeka.com##a[href*="/artis/"]
+www.merdeka.com##a[href*="sensualitas"]
+viva.co.id,liputan6.com##*>[href*="showbiz"]
+liputan6.com##*>[href*="buser"]
+liputan6.com##*>[href*="musik"]
+liputan6.com##*>[href*="showbiz"]
+
+www.vemale.com##a[href*="/zodiak/"]
+www.vemale.com##a[href*="/fashion/"]
+www.vemale.com##a[href*="/polling/"]
+
+www.youtube.com##.lohp-large-shelf-container *> A[href^="/watch"]
+www.youtube.com##a[href*="qePhBjCa-oo"]
  
+! anak tak butuh konsultasi sek-sual
+health.detik.com###detikcontent *> .sex
+health.detik.com##*>a[href*="andri-wanananda"]
+health.detik.com##a[href*="miss-v"]
+health.detik.com##a[href*="payudara"]
+
+! 26/4/2015 16.07.57 http://oto.detik.com/
+oto.detik.com###satu
+oto.detik.com###detikcontent > .kanan > .box_4
+oto.detik.com##.pic[href="http://oto.detik.com/otoshow/readfoto/2015/04/23/214504/2896738/647/1/mobil-monster-nissan-juke-r"]
+||images.detik.com/content/2015/03/30/1506/105447_i3.jpg
+||images.detik.com/content/2015/03/30/1506/i3.jpg
+
+www.youtube.com##a[href*="Healer"]
+www.youtube.com##a[href*="/user/Blucollection"]
+www.youtube.com##a[href*="channel/UC7nGdI1YVbdj0lBqEeg8KxQ"]
+ 
+! judi
+go88bet.com,99dewa.net,grand77.asia,dinastybet.net,lucky303.co,sbo303.org,taruhan88.com,vipbet88.com,metrosbobet.com,omi88.com,bandar889.com##body
+!!bol228.com
+
+!porno
+menjelma.com,termontok.com##body
+log.viva.co.id/news/read/526723
+
+! movies
+yahoo.com##*>[href*="movies"]
+ 
+! 26/4/2015 18.54.40 http://foto.okezone.com/
+foto.okezone.com##a[href*="celebrity"
+twitter.com/semprotcom
+|semprot.com
+/204.12.226.68/
+imdb.com,filmbagus21.com,21cineplex.com,wowkeren.com##body
+
+! 26/4/2015 23.04.26 http://otomotif.news.viva.co.id/
+viva.co.id##*>.babes
+viva.co.id##*>[href*="babes"]
+ 
+! 26/4/2015 23.45.29 http://www.games.co.id/permainan/berdandan
+www.games.co.id##*>[href*="dandan"]
+ 
+! 27/4/2015 01.01.19 https://www.yahoo.com/style/tagged/fashion
+www.yahoo.com##*>[href*="fashion"]
+##* > a[href*="otosia"]
+##* > a[href*="otobabe"]
+##* > a[href*="hin"]
+##* > a[alt*="toge"]
+##* > *[alt*="montok"]
+##* > *[alt*="hot"][alt*="igo"]
+##* > *[alt*="hot"][alt*="toge"]
+##img[src*="paddock"]
+##img[src*="hin"][cantik]
+##img[src*="cantik"]
+##img[src*="putri"]
+##img[src*="gadis"]
 ! 26/4/2015 13.13.05 http://www.detik.com/
 ##a[href*="Bercinta"]
 ##a[href*="Bikini"]
@@ -109,140 +200,30 @@ www.detik.com##*>.new-mytrans
 ##*>[alt*="hot+celebrity"]
  
 ! artis tak patut di contoh anak
-##*>[alt*="nikita+mirzani"]
-##*>[href*="nikita+mirzani"]
-##*>[href*="julia_perez"]
-##*>[href*="julia-perez"]
-##*>[href*="julia+perez"]
-##*>[alt*="dewi-persik"]
-##*>[href*="dewi-persik"]
-##*>[alt*="dewi+persik"]
-##*>[href*="dewi+persik"]
-##*>[alt*="Dewi+Persik"]
-##*>[href*="Dewi+Persik"]
+##*>[href*="nikita"][href*="mirzani"]
+##*>[href*="julia_perez"][href*="peres"]
+##*>[alt*="persik"][alt*="dewi"]
 ##*>[href*="sarah+ardhelia"]
 ##*>[alt*="sarah+ardhelia"]
 ##*>[href*="Sarah Ardhelia"]
 
-!web menghabiskan waktu menghalangi beramal baik
-wolipop.detik.com###detikcontent
-hot.detik.com##.contenthot
-! 26/4/2015 16.37.58 http://www.merdeka.com/
-www.merdeka.com##a[href*="/artis/"]
-www.merdeka.com##a[href*="sensualitas"]
-! 26/4/2015 22.27.00 http://showbiz.liputan6.com/
-viva.co.id,liputan6.com##*>[href*="showbiz"]
-liputan6.com##*>[href*="buser"]
-liputan6.com##*>[href*="musik"]
-liputan6.com##*>[href*="showbiz"]
- 
-! 26/4/2015 16.51.07 http://www.vemale.com/tags/curhat-cinta-vemale-com/
-www.vemale.com##a[href*="/zodiak/"]
-www.vemale.com##a[href*="/fashion/"]
-www.vemale.com##a[href*="/polling/"]
-
-www.youtube.com##.lohp-large-shelf-container *> A[href^="/watch"]
-www.youtube.com##a[href*="qePhBjCa-oo"]
- 
-! anak tak butuh konsultasi sek-sual
-health.detik.com###detikcontent *> .sex
-health.detik.com##*>a[href*="andri-wanananda"]
-health.detik.com##a[href*="miss-v"]
-health.detik.com##a[href*="payudara"]
-
-! 26/4/2015 16.07.57 http://oto.detik.com/
-oto.detik.com###satu
- 
-! 26/4/2015 16.09.54 http://oto.detik.com/
-oto.detik.com###detikcontent > .kanan > .box_4
- 
-! 26/4/2015 16.12.26 http://oto.detik.com/otoshow/readfoto/2015/04/23/214504/2896738/647/1/mobil-monster-nissan-juke-r
-||images.detik.com/customthumb/2015/04/23/647/juke1.jpg
- 
-! 26/4/2015 16.12.49 http://oto.detik.com/otoshow/readfoto/2015/04/23/214504/2896738/647/1/mobil-monster-nissan-juke-r
-||images.detik.com/content/2015/04/23/647/juke1a.jpg
- 
-! 26/4/2015 16.25.30 http://oto.detik.com/otoshow/gallery
-oto.detik.com##.pic[href="http://oto.detik.com/otoshow/readfoto/2015/04/23/214504/2896738/647/1/mobil-monster-nissan-juke-r"]
- 
-! 26/4/2015 16.27.15 http://oto.detik.com/otoshow/read/2015/03/30/105026/2873245/1506/melirik-kecanggihan-2-mobil-ramah-lingkungan-bmw-i3-dan-i8
-||images.detik.com/content/2015/03/30/1506/105447_i3.jpg
- 
-! 26/4/2015 16.27.45 http://oto.detik.com/otoshow
-||images.detik.com/content/2015/03/30/1506/i3.jpg
-
-www.youtube.com##a[href*="Healer"]
-www.youtube.com##a[href*="/user/Blucollection"]
-www.youtube.com##a[href*="channel/UC7nGdI1YVbdj0lBqEeg8KxQ"]
- 
-! judi
-go88bet.com,99dewa.net,grand77.asia,dinastybet.net,lucky303.co,sbo303.org,taruhan88.com,vipbet88.com,metrosbobet.com,omi88.com,bandar889.com##body
-!!bol228.com
-
-!porno
-menjelma.com,termontok.com##body
-log.viva.co.id/news/read/526723
-
- 
-! movies
-yahoo.com##*>[href*="movies"]
- 
-! 26/4/2015 18.54.40 http://foto.okezone.com/
-foto.okezone.com##a[href*="celebrity"
-twitter.com/semprotcom
-!semprot.com
-/204.12.226.68/
-imdb.com,filmbagus21.com,21cineplex.com,wowkeren.com##body
-
-! 26/4/2015 23.04.26 http://otomotif.news.viva.co.id/
-viva.co.id##*>.babes
-viva.co.id##*>[href*="babes"]
- 
-! 26/4/2015 23.45.29 http://www.games.co.id/permainan/berdandan
-www.games.co.id##*>[href*="dandan"]
- 
-! 27/4/2015 01.01.19 https://www.yahoo.com/style/tagged/fashion
-www.yahoo.com##*>[href*="fashion"]
-##* > a[href*="otosia"]
-##* > a[href*="otobabe"]
-##* > a[href*="hin"]
-##* > a[alt*="toge"]
-##* > *[alt*="montok"]
-##* > *[alt*="hot"][alt*="igo"]
-##* > *[alt*="hot"][alt*="toge"]
-##img[src*="paddock"]
-##img[src*="hin"][cantik]
-##img[src*="cantik"]
-##img[src*="putri"]
-##img[src*="gadis"]
 ||cdn.klimg.com/*/bims_angels
+##a[href*="fashion"][href^="imgres"]
+##a[href*="swimsuit"][href^="imgres"]
 
 @@* > a[alt*="toge"][alt*="sayur"]
 
-||*.com^*seksi
-||*.com^*janda
-||*.com^*kontol
-||http://indonesia-girl.blogspot.com^
 
-! 28/4/2015 23.34.16 http://www.otosia.com/galeri/alasan_terbaik_untuk_mengunjungi_pameran_otomotif_thailand-1.html
-||cdn.klimg.com/otosia.com^*alasan_terbaik*pameran_otomotif_thailand
 
 ! 28/4/2015 23.44.56 https://www.google.co.id/search?q=test&es_sm=122&source=lnms&tbm=isch&sa=X&ei=07c_Ve_lJY7juQTdpIHoAg&ved=0CAcQ_AUoAQ&biw=1232&bih=337#tbm=isch&q=swimsuit
-##a[href*="fashion"][href^="imgres"]
-##a[href*="swimsuit"][href^="imgres"]
+
 www.forumbebas.com##a[href^="www/go/to.php"]
-||sbbanner.com^
+
 www.forumbebas.com###iklan3
 news.detik.com###billboard_banner
 
 ! 29/4/2015 09.05.44 http://www.otosia.com/otoseleb/rhara-jatuhkan-pada-sedan-hatchback.html
-||cdn.klimg.com^/rhara-jatuhkan
 
-! 4/29/2015, 10:15:54 AM http://lifestyle.okezone.com/read/2015/04/28/194/1141466/perawatan-khusus-hilangkan-aroma-tak-sedap-area-v
-||staticdev.okezone.com^
-
-! 4/29/2015, 10:28:13 AM http://news.okezone.com/read/2015/04/29/337/1141725/rumah-persemayaman-duo-bali-nine-dijaga-ketat
-||bdev.okezone.com^delivery
 
 ! 4/29/2015, 12:23:46 PM http://www.sepak.com/
 www.sepak.com##.momizat-ads
