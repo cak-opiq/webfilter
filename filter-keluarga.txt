@@ -32,7 +32,7 @@ www.viki.com##body
 www.vemale.com/tags/curhat-cinta-vemale-com##body
 
 ! Bagian web yg tidak patut buat anak 
-www.detik.com##*>.emagz
+www.detik.com##*>.male_mag
 www.detik.com##*>.new-mytrans
 hot.detik.com##.contenthot
 wolipop.detik.com###detikcontent
