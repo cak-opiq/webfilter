@@ -208,8 +208,10 @@ www.yahoo.com##*>[href*="fashion"]
 ##*>[href*="Sarah Ardhelia"]
 
 ||cdn.klimg.com/*/bims_angels
-##a[href*="fashion"][href^="imgres"]
-##a[href*="swimsuit"][href^="imgres"]
+##a[href*="fashion"][href*="imgres"]
+##a[href*="swimsuit"][href*="imgres"]
+##a[href*="fashion"][href*="url"]
+##a[href*="swimsuit"][href*="url"]
 
 @@* > a[alt*="toge"][alt*="sayur"]
 
